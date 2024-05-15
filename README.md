@@ -1,0 +1,2 @@
+# CICD
+Praktyka programowania - laboratorium
